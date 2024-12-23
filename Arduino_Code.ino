@@ -86,7 +86,7 @@ void rung0(){
 }
 
 void rung1(){
-   if (F0 == true){
+   if (F0){
    O0= true;
    O1= true;
  }else{
